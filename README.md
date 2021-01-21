@@ -16,8 +16,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+## Name:
 
-```Name:
-```Photo:
-```Brief Description
-```Link to 1page resume
+## Photo:
+
+## Brief Description
+
+## Link to 1page resume
